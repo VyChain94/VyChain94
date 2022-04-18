@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VyChain94
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning Responsive Web Design
+- 🌱 I’m currently learning & building Responsive Web Designs
 - 💞️ I’m looking to collaborate with a mentor
 - 📫 Shoot me a message!
 
