@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VyChain94
+- 👋 Hey y'all, my name is Ivy Tigs Jr
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning & building Responsive Web Designs
-- 💞️ I’m looking to collaborate with a mentor
+- 💞️ I’m looking to collaborate with a mentor and build projects for local businesses
 - 📫 Shoot me a message!
 
 <!---
