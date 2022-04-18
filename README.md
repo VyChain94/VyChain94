@@ -1,4 +1,4 @@
-- 👋 Hey y'all, my name is Ivy Tigs Jr
+- 👋 Hello! my name is Ivy Tigs Jr
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning & building Responsive Web Designs
 - 💞️ I’m looking to collaborate with a mentor and build projects for local businesses
