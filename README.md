@@ -1,7 +1,7 @@
 - 👋 Hello! my name is Ivy Tigs Jr
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning & building Responsive Web Designs
-- 💞️ I’m looking to collaborate with a mentor and build projects for local businesses
+- 👀 I’m a self taught Software Engineer
+- 🌱 I’m currently building websites and web applications for individuals and businesses
+- 💞️ I’m looking to collaborate with a mentor
 - 📫 Shoot me a message!
 
 <!---
