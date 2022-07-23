@@ -2,7 +2,8 @@
 - 👀 I’m a self taught Software Engineer
 - 🌱 I’m currently building websites and web applications for individuals and businesses
 - 💞️ I’m looking to collaborate with a mentor
-- 📫 Shoot me a message!
+- 📫 My company: www.thegarden.link
+- 📫 My portfolio: www.gardenofivy.com
 
 <!---
 VyChain94/VyChain94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
