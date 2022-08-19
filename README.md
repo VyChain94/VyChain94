@@ -2,7 +2,6 @@
 - 👀 I’m a self taught Software Engineer
 - 🌱 I’m currently building websites and web applications for individuals and businesses
 - 💞️ I’m looking to collaborate with a mentor
-- 📫 My company: www.thegarden.link
 - 📫 My portfolio: www.gardenofivy.com
 
 <!---
