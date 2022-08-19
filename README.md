@@ -1,7 +1,7 @@
 - 👋 Hello! my name is Ivy Tigs Jr
 - 👀 I’m a self taught Software Engineer
 - 🌱 I’m currently building websites and web applications for individuals and businesses
-- 💞️ I’m looking to collaborate with a mentor
+- 💞️ I’m looking to collaborate with a mentor and work in a team setting
 - 📫 My portfolio: www.gardenofivy.com
 
 <!---
