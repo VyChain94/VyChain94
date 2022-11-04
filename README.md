@@ -1,7 +1,7 @@
 - 👋 Hello! my name is Ivy Tigs Jr
 - 👀 I’m a self taught Frontend Developer
 - 🌱 I’m currently building websites and web applications for individuals and businesses
-- 💞️ I’m looking to collaborate with a mentor and work in a team setting
+- 💞️ I’m looking to collaborate with a mentor as well as work in an agile team setting
 - 📫 My portfolio: www.gardenofivy.com
 
 <!---
