@@ -1,6 +1,4 @@
-- 👋 Hello! my name is Ivy Tigs Jr
-- 👀 I’m a self taught Frontend Engineer
-- 🌱 I’m currently building websites and web applications for individuals and businesses
+- 👋 Hello all! my name is Ivy Tigs Jr and I'm a self taught Frontend Engineer that builds websites and web applications for individuals and businesses.
 - 📫 My portfolio: www.gardenofivy.com
 
 <!-- - 💞️ I’m looking to collaborate with a mentor as well as work in an agile team setting -->
