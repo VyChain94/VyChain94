@@ -1,4 +1,4 @@
-- 👋 Hello all! my name is Ivy Tigs Jr and I'm a self taught Full-Stack Engineer that builds websites and applications for individuals and businesses.
+- 👋 Hello all! my name is Ivy Tigs Jr, follow welcome to my journey!
 - 📫 My portfolio: www.gardenofivy.com
 
 <!-- - 💞️ I’m looking to collaborate with a mentor as well as work in an agile team setting with likeminded individuals -->
